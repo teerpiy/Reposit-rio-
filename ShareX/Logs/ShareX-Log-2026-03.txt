@@ -1,0 +1,373 @@
+﻿2026-03-08 21:44:39.159 - ShareX starting.
+2026-03-08 21:44:39.162 - Version: 19.0.2
+2026-03-08 21:44:39.162 - Build: Steam
+2026-03-08 21:44:39.162 - Command line: "C:\Program Files (x86)\Steam\steamapps\common\ShareX\ShareX\ShareX.dll" -SteamConfig
+2026-03-08 21:44:39.162 - Personal path: C:\Users\Teerp\OneDrive\Documentos\ShareX
+2026-03-08 21:44:39.163 - Operating system: Windows 10 Home (64-bit)
+2026-03-08 21:44:39.165 - .NET version: 9.0.12
+2026-03-08 21:44:39.165 - Running as elevated process: False
+2026-03-08 21:44:39.341 - Flags: SteamFirstTimeConfig
+2026-03-08 21:44:39.808 - ApplicationConfig file does not exist: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-08 21:44:39.808 - ApplicationConfig file does not exist: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json.temp
+2026-03-08 21:44:39.808 - ApplicationConfig file does not exist: C:\Users\Teerp\OneDrive\Documentos\ShareX\Backup\ApplicationConfig.json
+2026-03-08 21:44:39.808 - Loading new ApplicationConfig instance.
+2026-03-08 21:44:41.726 - MainForm init started.
+2026-03-08 21:44:41.726 - UploadersConfig file does not exist: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-08 21:44:41.727 - UploadersConfig file does not exist: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json.temp
+2026-03-08 21:44:41.728 - UploadersConfig file does not exist: C:\Users\Teerp\OneDrive\Documentos\ShareX\Backup\UploadersConfig.json
+2026-03-08 21:44:41.728 - Loading new UploadersConfig instance.
+2026-03-08 21:44:41.763 - HotkeysConfig file does not exist: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-08 21:44:41.763 - HotkeysConfig file does not exist: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json.temp
+2026-03-08 21:44:41.763 - HotkeysConfig file does not exist: C:\Users\Teerp\OneDrive\Documentos\ShareX\Backup\HotkeysConfig.json
+2026-03-08 21:44:41.763 - Loading new HotkeysConfig instance.
+2026-03-08 21:44:42.519 - MainForm init finished.
+2026-03-08 21:44:42.798 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capturar região, Job: RectangleRegion
+2026-03-08 21:44:42.798 - Unable to register hotkey: Print Screen
+2026-03-08 21:44:42.798 - Hotkey register failed: Hotkey: Print Screen, Description: Capturar a tela inteira, Job: PrintScreen
+2026-03-08 21:44:42.798 - Unable to register hotkey: Alt + Print Screen
+2026-03-08 21:44:42.798 - Hotkey register failed: Hotkey: Alt + Print Screen, Description: Capturar janela ativa, Job: ActiveWindow
+2026-03-08 21:44:42.798 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2026-03-08 21:44:42.798 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Gravar tela (GIF), Job: ScreenRecorderGIF
+2026-03-08 21:44:47.171 - HotkeyManager started.
+2026-03-08 21:44:47.172 - WatchFolderManager started.
+2026-03-08 21:44:47.201 - Startup time: 8351 ms
+2026-03-08 21:44:47.203 - CommandLine: -SteamConfig
+2026-03-08 21:44:55.786 - Task in queue. Job: Job, Type: Image, Host: 
+2026-03-08 21:44:55.855 - Task status: Preparing
+2026-03-08 21:44:55.872 - Image copied to clipboard.
+2026-03-08 21:44:55.880 - Image saved to file: C:\Users\Teerp\OneDrive\Documentos\ShareX\Screenshots\2026-03\jnnLqFRITr.png
+2026-03-08 21:44:55.892 - Task completed. File name: jnnLqFRITr.png, Duration: 35 ms
+2026-03-12 01:15:10.573 - ShareX starting.
+2026-03-12 01:15:10.576 - Version: 19.0.2
+2026-03-12 01:15:10.576 - Build: Steam
+2026-03-12 01:15:10.576 - Command line: "C:\Program Files (x86)\Steam\steamapps\common\ShareX\ShareX\ShareX.dll"
+2026-03-12 01:15:10.576 - Personal path: C:\Users\Teerp\OneDrive\Documentos\ShareX
+2026-03-12 01:15:10.577 - Operating system: Windows 10 Home (64-bit)
+2026-03-12 01:15:10.578 - .NET version: 9.0.12
+2026-03-12 01:15:10.578 - Running as elevated process: False
+2026-03-12 01:15:11.100 - ApplicationConfig file does not exist: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-12 01:15:11.100 - ApplicationConfig file does not exist: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json.temp
+2026-03-12 01:15:11.100 - ApplicationConfig file does not exist: C:\Users\Teerp\OneDrive\Documentos\ShareX\Backup\ApplicationConfig.json
+2026-03-12 01:15:11.100 - Loading new ApplicationConfig instance.
+2026-03-12 01:15:13.252 - MainForm init started.
+2026-03-12 01:15:13.253 - UploadersConfig file does not exist: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-12 01:15:13.253 - UploadersConfig file does not exist: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json.temp
+2026-03-12 01:15:13.253 - UploadersConfig file does not exist: C:\Users\Teerp\OneDrive\Documentos\ShareX\Backup\UploadersConfig.json
+2026-03-12 01:15:13.253 - Loading new UploadersConfig instance.
+2026-03-12 01:15:13.292 - HotkeysConfig file does not exist: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-12 01:15:13.292 - HotkeysConfig file does not exist: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json.temp
+2026-03-12 01:15:13.292 - HotkeysConfig file does not exist: C:\Users\Teerp\OneDrive\Documentos\ShareX\Backup\HotkeysConfig.json
+2026-03-12 01:15:13.292 - Loading new HotkeysConfig instance.
+2026-03-12 01:15:14.158 - MainForm init finished.
+2026-03-12 01:15:14.486 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capturar região, Job: RectangleRegion
+2026-03-12 01:15:14.487 - Unable to register hotkey: Print Screen
+2026-03-12 01:15:14.487 - Hotkey register failed: Hotkey: Print Screen, Description: Capturar a tela inteira, Job: PrintScreen
+2026-03-12 01:15:14.487 - Unable to register hotkey: Alt + Print Screen
+2026-03-12 01:15:14.487 - Hotkey register failed: Hotkey: Alt + Print Screen, Description: Capturar janela ativa, Job: ActiveWindow
+2026-03-12 01:15:14.487 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2026-03-12 01:15:14.487 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Gravar tela (GIF), Job: ScreenRecorderGIF
+2026-03-12 01:15:15.799 - HotkeyManager started.
+2026-03-12 01:15:15.800 - WatchFolderManager started.
+2026-03-12 01:15:15.831 - Startup time: 5676 ms
+2026-03-12 01:15:26.158 - Task in queue. Job: Job, Type: Image, Host: 
+2026-03-12 01:15:26.265 - Task status: Preparing
+2026-03-12 01:15:26.291 - Image copied to clipboard.
+2026-03-12 01:15:26.308 - Image saved to file: C:\Users\Teerp\OneDrive\Documentos\ShareX\Screenshots\2026-03\brave_ZU1IxcAUSR.png
+2026-03-12 01:15:26.326 - Task completed. File name: brave_ZU1IxcAUSR.png, Duration: 58 ms
+2026-03-12 01:16:57.200 - ApplicationConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-12 01:16:57.200 - UploadersConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-12 01:16:57.201 - HotkeysConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-12 01:16:57.316 - HotkeysConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-12 01:16:57.393 - UploadersConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-12 01:16:57.471 - ApplicationConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-12 07:58:56.803 - Hotkey unregistered: Hotkey: Ctrl + Print Screen, Description: Capturar região, Job: RectangleRegion
+2026-03-12 07:58:56.803 - Hotkey unregistered: Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2026-03-12 07:58:56.803 - Hotkey unregistered: Hotkey: Ctrl + Shift + Print Screen, Description: Gravar tela (GIF), Job: ScreenRecorderGIF
+2026-03-12 07:58:56.855 - ShareX closing.
+2026-03-12 07:58:56.858 - ApplicationConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-12 07:58:56.988 - ApplicationConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-12 07:58:56.988 - UploadersConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-12 07:58:57.051 - UploadersConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-12 07:58:57.051 - HotkeysConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-12 07:58:57.077 - HotkeysConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-12 07:58:57.077 - ShareX closed.
+2026-03-13 08:07:40.726 - ShareX starting.
+2026-03-13 08:07:40.730 - Version: 19.0.2
+2026-03-13 08:07:40.730 - Build: Steam
+2026-03-13 08:07:40.730 - Command line: "C:\Program Files (x86)\Steam\steamapps\common\ShareX\ShareX\ShareX.dll"
+2026-03-13 08:07:40.730 - Personal path: C:\Users\Teerp\OneDrive\Documentos\ShareX
+2026-03-13 08:07:40.731 - Operating system: Windows 10 Home (64-bit)
+2026-03-13 08:07:40.732 - .NET version: 9.0.12
+2026-03-13 08:07:40.732 - Running as elevated process: False
+2026-03-13 08:07:41.264 - ApplicationConfig load started: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-13 08:07:42.774 - ApplicationConfig load finished: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-13 08:07:43.241 - MainForm init started.
+2026-03-13 08:07:43.242 - UploadersConfig load started: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-13 08:07:43.517 - UploadersConfig load finished: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-13 08:07:43.519 - HotkeysConfig load started: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-13 08:07:43.557 - HotkeysConfig load finished: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-13 08:07:44.214 - MainForm init finished.
+2026-03-13 08:07:44.387 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capturar região, Job: RectangleRegion
+2026-03-13 08:07:44.387 - Unable to register hotkey: Print Screen
+2026-03-13 08:07:44.387 - Hotkey register failed: Hotkey: Print Screen, Description: Capturar a tela inteira, Job: PrintScreen
+2026-03-13 08:07:44.387 - Unable to register hotkey: Alt + Print Screen
+2026-03-13 08:07:44.387 - Hotkey register failed: Hotkey: Alt + Print Screen, Description: Capturar janela ativa, Job: ActiveWindow
+2026-03-13 08:07:44.387 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2026-03-13 08:07:44.387 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Gravar tela (GIF), Job: ScreenRecorderGIF
+2026-03-13 08:07:48.298 - HotkeyManager started.
+2026-03-13 08:07:48.298 - WatchFolderManager started.
+2026-03-13 08:07:48.332 - Startup time: 8023 ms
+2026-03-13 08:11:20.322 - Task in queue. Job: Job, Type: Image, Host: 
+2026-03-13 08:11:20.601 - Task status: Preparing
+2026-03-13 08:11:20.639 - Image copied to clipboard.
+2026-03-13 08:11:20.656 - Image saved to file: C:\Users\Teerp\OneDrive\Documentos\ShareX\Screenshots\2026-03\brave_NA9V5nSAQS.png
+2026-03-13 08:11:20.679 - Task completed. File name: brave_NA9V5nSAQS.png, Duration: 76 ms
+2026-03-13 08:13:27.624 - UploadersConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-13 08:13:27.624 - ApplicationConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-13 08:13:27.660 - HotkeysConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-13 08:13:27.706 - HotkeysConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-13 08:13:27.808 - UploadersConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-13 08:13:27.969 - ApplicationConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-13 08:13:30.134 - Hotkey unregistered: Hotkey: Ctrl + Print Screen, Description: Capturar região, Job: RectangleRegion
+2026-03-13 08:13:30.134 - Hotkey unregistered: Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2026-03-13 08:13:30.134 - Hotkey unregistered: Hotkey: Ctrl + Shift + Print Screen, Description: Gravar tela (GIF), Job: ScreenRecorderGIF
+2026-03-13 08:13:30.187 - ShareX closing.
+2026-03-13 08:13:30.190 - ApplicationConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-13 08:13:30.317 - ApplicationConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-13 08:13:30.317 - UploadersConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-13 08:13:30.519 - UploadersConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-13 08:13:30.519 - HotkeysConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-13 08:13:30.535 - HotkeysConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-13 08:13:30.535 - ShareX closed.
+2026-03-13 20:31:14.000 - ShareX starting.
+2026-03-13 20:31:14.008 - Version: 19.0.2
+2026-03-13 20:31:14.009 - Build: Steam
+2026-03-13 20:31:14.009 - Command line: "C:\Program Files (x86)\Steam\steamapps\common\ShareX\ShareX\ShareX.dll"
+2026-03-13 20:31:14.009 - Personal path: C:\Users\Teerp\OneDrive\Documentos\ShareX
+2026-03-13 20:31:14.009 - Operating system: Windows 10 Home (64-bit)
+2026-03-13 20:31:14.010 - .NET version: 9.0.12
+2026-03-13 20:31:14.011 - Running as elevated process: False
+2026-03-13 20:31:14.546 - ApplicationConfig load started: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-13 20:31:16.026 - ApplicationConfig load finished: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-13 20:31:16.557 - MainForm init started.
+2026-03-13 20:31:16.559 - UploadersConfig load started: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-13 20:31:16.863 - UploadersConfig load finished: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-13 20:31:16.864 - HotkeysConfig load started: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-13 20:31:16.905 - HotkeysConfig load finished: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-13 20:31:17.854 - MainForm init finished.
+2026-03-13 20:31:18.026 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capturar região, Job: RectangleRegion
+2026-03-13 20:31:18.026 - Unable to register hotkey: Print Screen
+2026-03-13 20:31:18.026 - Hotkey register failed: Hotkey: Print Screen, Description: Capturar a tela inteira, Job: PrintScreen
+2026-03-13 20:31:18.026 - Unable to register hotkey: Alt + Print Screen
+2026-03-13 20:31:18.026 - Hotkey register failed: Hotkey: Alt + Print Screen, Description: Capturar janela ativa, Job: ActiveWindow
+2026-03-13 20:31:18.026 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2026-03-13 20:31:18.026 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Gravar tela (GIF), Job: ScreenRecorderGIF
+2026-03-13 20:31:20.279 - HotkeyManager started.
+2026-03-13 20:31:20.280 - WatchFolderManager started.
+2026-03-13 20:31:20.313 - Startup time: 6684 ms
+2026-03-13 20:31:30.661 - Task in queue. Job: Job, Type: Image, Host: 
+2026-03-13 20:31:30.818 - Task status: Preparing
+2026-03-13 20:31:30.869 - Image copied to clipboard.
+2026-03-13 20:31:30.893 - Image saved to file: C:\Users\Teerp\OneDrive\Documentos\ShareX\Screenshots\2026-03\brave_fHA5IDahXM.png
+2026-03-13 20:31:30.917 - Task completed. File name: brave_fHA5IDahXM.png, Duration: 96 ms
+2026-03-14 10:04:16.551 - UploadersConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-14 10:04:16.551 - ApplicationConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-14 10:04:16.552 - HotkeysConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-14 10:04:16.594 - HotkeysConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-14 10:04:16.631 - UploadersConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-14 10:04:16.703 - ApplicationConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-14 18:14:16.862 - ShareX starting.
+2026-03-14 18:14:16.868 - Version: 19.0.2
+2026-03-14 18:14:16.869 - Build: Steam
+2026-03-14 18:14:16.869 - Command line: "C:\Program Files (x86)\Steam\steamapps\common\ShareX\ShareX\ShareX.dll"
+2026-03-14 18:14:16.869 - Personal path: C:\Users\Teerp\OneDrive\Documentos\ShareX
+2026-03-14 18:14:16.870 - Operating system: Windows 10 Home (64-bit)
+2026-03-14 18:14:16.871 - .NET version: 9.0.12
+2026-03-14 18:14:16.871 - Running as elevated process: False
+2026-03-14 18:14:17.364 - ApplicationConfig load started: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-14 18:14:19.389 - ApplicationConfig load finished: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-14 18:14:19.829 - MainForm init started.
+2026-03-14 18:14:19.830 - UploadersConfig load started: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-14 18:14:20.165 - UploadersConfig load finished: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-14 18:14:20.166 - HotkeysConfig load started: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-14 18:14:20.223 - HotkeysConfig load finished: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-14 18:14:20.896 - MainForm init finished.
+2026-03-14 18:14:21.018 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capturar região, Job: RectangleRegion
+2026-03-14 18:14:21.018 - Unable to register hotkey: Print Screen
+2026-03-14 18:14:21.018 - Hotkey register failed: Hotkey: Print Screen, Description: Capturar a tela inteira, Job: PrintScreen
+2026-03-14 18:14:21.019 - Unable to register hotkey: Alt + Print Screen
+2026-03-14 18:14:21.019 - Hotkey register failed: Hotkey: Alt + Print Screen, Description: Capturar janela ativa, Job: ActiveWindow
+2026-03-14 18:14:21.019 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2026-03-14 18:14:21.019 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Gravar tela (GIF), Job: ScreenRecorderGIF
+2026-03-14 18:14:24.968 - Executing: Capturar região
+2026-03-14 18:14:29.897 - Task in queue. Job: Job, Type: Image, Host: 
+2026-03-14 18:14:29.987 - Task status: Preparing
+2026-03-14 18:14:30.120 - Image copied to clipboard.
+2026-03-14 18:14:30.150 - Image saved to file: C:\Users\Teerp\OneDrive\Documentos\ShareX\Screenshots\2026-03\brave_vCNQcLcbad.png
+2026-03-14 18:14:30.169 - Task completed. File name: brave_vCNQcLcbad.png, Duration: 179 ms
+2026-03-14 18:14:37.498 - HotkeyManager started.
+2026-03-14 18:14:37.499 - WatchFolderManager started.
+2026-03-14 18:14:37.523 - Startup time: 20936 ms
+2026-03-14 18:14:46.434 - File opened: C:\Users\Teerp\OneDrive\Documentos\ShareX\Screenshots\2026-03\brave_vCNQcLcbad.png
+2026-03-15 03:24:08.406 - ApplicationConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-15 03:24:08.462 - UploadersConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-15 03:24:08.556 - HotkeysConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-15 03:24:08.598 - HotkeysConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-15 03:24:08.652 - UploadersConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-15 03:24:08.686 - ApplicationConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-15 03:38:23.320 - ShareX closing.
+2026-03-15 03:38:23.326 - ApplicationConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-15 03:38:23.448 - ApplicationConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-15 03:38:23.448 - UploadersConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-16 10:08:27.275 - ShareX starting.
+2026-03-16 10:08:27.277 - Version: 19.0.2
+2026-03-16 10:08:27.277 - Build: Steam
+2026-03-16 10:08:27.278 - Command line: "C:\Program Files (x86)\Steam\steamapps\common\ShareX\ShareX\ShareX.dll"
+2026-03-16 10:08:27.278 - Personal path: C:\Users\Teerp\OneDrive\Documentos\ShareX
+2026-03-16 10:08:27.278 - Operating system: Windows 10 Home (64-bit)
+2026-03-16 10:08:27.279 - .NET version: 9.0.12
+2026-03-16 10:08:27.279 - Running as elevated process: False
+2026-03-16 10:08:27.779 - ApplicationConfig load started: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-16 10:08:29.186 - ApplicationConfig load finished: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-16 10:08:29.626 - MainForm init started.
+2026-03-16 10:08:29.626 - UploadersConfig load started: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-16 10:08:29.894 - UploadersConfig load finished: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-16 10:08:29.896 - HotkeysConfig load started: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-16 10:08:29.941 - HotkeysConfig load finished: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-16 10:08:30.595 - MainForm init finished.
+2026-03-16 10:08:30.809 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capturar região, Job: RectangleRegion
+2026-03-16 10:08:30.809 - Unable to register hotkey: Print Screen
+2026-03-16 10:08:30.809 - Hotkey register failed: Hotkey: Print Screen, Description: Capturar a tela inteira, Job: PrintScreen
+2026-03-16 10:08:30.809 - Unable to register hotkey: Alt + Print Screen
+2026-03-16 10:08:30.809 - Hotkey register failed: Hotkey: Alt + Print Screen, Description: Capturar janela ativa, Job: ActiveWindow
+2026-03-16 10:08:30.809 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2026-03-16 10:08:30.809 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Gravar tela (GIF), Job: ScreenRecorderGIF
+2026-03-16 10:08:34.082 - HotkeyManager started.
+2026-03-16 10:08:34.082 - WatchFolderManager started.
+2026-03-16 10:08:34.113 - Startup time: 7137 ms
+2026-03-16 10:08:53.392 - Task in queue. Job: Job, Type: Image, Host: 
+2026-03-16 10:08:53.454 - Task status: Preparing
+2026-03-16 10:08:53.479 - Image copied to clipboard.
+2026-03-16 10:08:53.492 - Image saved to file: C:\Users\Teerp\OneDrive\Documentos\ShareX\Screenshots\2026-03\brave_5EYEgHdg1O.png
+2026-03-16 10:08:53.508 - Task completed. File name: brave_5EYEgHdg1O.png, Duration: 52 ms
+2026-03-16 10:09:28.326 - Task in queue. Job: Job, Type: Image, Host: 
+2026-03-16 10:09:28.343 - Task status: Preparing
+2026-03-16 10:09:28.357 - Image copied to clipboard.
+2026-03-16 10:09:28.364 - Image saved to file: C:\Users\Teerp\OneDrive\Documentos\ShareX\Screenshots\2026-03\7dn0U6pJN8.png
+2026-03-16 10:09:28.373 - Task completed. File name: 7dn0U6pJN8.png, Duration: 30 ms
+2026-03-16 12:11:45.388 - Task in queue. Job: Job, Type: Image, Host: 
+2026-03-16 12:11:45.410 - Task status: Preparing
+2026-03-16 12:11:45.427 - Image copied to clipboard.
+2026-03-16 12:11:45.443 - Image saved to file: C:\Users\Teerp\OneDrive\Documentos\ShareX\Screenshots\2026-03\brave_3fNKwA7CvT.png
+2026-03-16 12:11:45.455 - Task completed. File name: brave_3fNKwA7CvT.png, Duration: 45 ms
+2026-03-16 12:47:14.831 - Task in queue. Job: Job, Type: Image, Host: 
+2026-03-16 12:47:14.861 - Task status: Preparing
+2026-03-16 12:47:14.871 - Image copied to clipboard.
+2026-03-16 12:47:14.874 - Image saved to file: C:\Users\Teerp\OneDrive\Documentos\ShareX\Screenshots\2026-03\brave_DBBO8x46Ok.png
+2026-03-16 12:47:14.888 - Task completed. File name: brave_DBBO8x46Ok.png, Duration: 27 ms
+2026-03-16 13:45:34.865 - Hotkey unregistered: Hotkey: Ctrl + Print Screen, Description: Capturar região, Job: RectangleRegion
+2026-03-16 13:45:34.865 - Hotkey unregistered: Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2026-03-16 13:45:34.865 - Hotkey unregistered: Hotkey: Ctrl + Shift + Print Screen, Description: Gravar tela (GIF), Job: ScreenRecorderGIF
+2026-03-16 13:45:34.945 - ShareX closing.
+2026-03-16 13:45:34.951 - ApplicationConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-16 13:45:35.121 - ApplicationConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-16 13:45:35.121 - UploadersConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-16 13:45:35.177 - UploadersConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-16 13:45:35.177 - HotkeysConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-16 13:45:35.204 - HotkeysConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-16 13:45:35.204 - ShareX closed.
+2026-03-16 14:01:01.801 - ShareX starting.
+2026-03-16 14:01:01.805 - Version: 19.0.2
+2026-03-16 14:01:01.805 - Build: Steam
+2026-03-16 14:01:01.805 - Command line: "C:\Program Files (x86)\Steam\steamapps\common\ShareX\ShareX\ShareX.dll"
+2026-03-16 14:01:01.805 - Personal path: C:\Users\Teerp\OneDrive\Documentos\ShareX
+2026-03-16 14:01:01.805 - Operating system: Windows 10 Home (64-bit)
+2026-03-16 14:01:01.807 - .NET version: 9.0.12
+2026-03-16 14:01:01.807 - Running as elevated process: False
+2026-03-16 14:01:01.835 - ApplicationConfig load started: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-16 14:01:02.381 - ApplicationConfig load finished: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-16 14:01:02.553 - MainForm init started.
+2026-03-16 14:01:02.553 - UploadersConfig load started: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-16 14:01:02.644 - UploadersConfig load finished: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-16 14:01:02.644 - HotkeysConfig load started: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-16 14:01:02.668 - HotkeysConfig load finished: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-16 14:01:03.171 - MainForm init finished.
+2026-03-16 14:01:03.318 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capturar região, Job: RectangleRegion
+2026-03-16 14:01:03.318 - Unable to register hotkey: Print Screen
+2026-03-16 14:01:03.318 - Hotkey register failed: Hotkey: Print Screen, Description: Capturar a tela inteira, Job: PrintScreen
+2026-03-16 14:01:03.318 - Unable to register hotkey: Alt + Print Screen
+2026-03-16 14:01:03.318 - Hotkey register failed: Hotkey: Alt + Print Screen, Description: Capturar janela ativa, Job: ActiveWindow
+2026-03-16 14:01:03.318 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2026-03-16 14:01:03.318 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Gravar tela (GIF), Job: ScreenRecorderGIF
+2026-03-16 14:01:06.010 - HotkeyManager started.
+2026-03-16 14:01:06.011 - WatchFolderManager started.
+2026-03-16 14:01:06.042 - Startup time: 4561 ms
+2026-03-16 14:01:11.490 - Task in queue. Job: Job, Type: Image, Host: 
+2026-03-16 14:01:11.551 - Task status: Preparing
+2026-03-16 14:01:11.581 - Image copied to clipboard.
+2026-03-16 14:01:11.597 - Image saved to file: C:\Users\Teerp\OneDrive\Documentos\ShareX\Screenshots\2026-03\brave_PsVIWL2Isw.png
+2026-03-16 14:01:11.616 - Task completed. File name: brave_PsVIWL2Isw.png, Duration: 64 ms
+2026-03-16 14:01:20.784 - Task in queue. Job: Job, Type: Image, Host: 
+2026-03-16 14:01:20.800 - Task status: Preparing
+2026-03-16 14:01:20.813 - Image copied to clipboard.
+2026-03-16 14:01:20.824 - Image saved to file: C:\Users\Teerp\OneDrive\Documentos\ShareX\Screenshots\2026-03\DmskNgdKAA.png
+2026-03-16 14:01:20.834 - Task completed. File name: DmskNgdKAA.png, Duration: 33 ms
+2026-03-16 14:59:47.427 - Task in queue. Job: Job, Type: Image, Host: 
+2026-03-16 14:59:47.451 - Task status: Preparing
+2026-03-16 14:59:47.477 - Image copied to clipboard.
+2026-03-16 14:59:47.498 - Image saved to file: C:\Users\Teerp\OneDrive\Documentos\ShareX\Screenshots\2026-03\brave_UwetMxrTdB.png
+2026-03-16 14:59:47.508 - Task completed. File name: brave_UwetMxrTdB.png, Duration: 63 ms
+2026-03-16 15:00:01.796 - ApplicationConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-16 15:00:01.812 - UploadersConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-16 15:00:01.828 - HotkeysConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-16 15:00:01.883 - HotkeysConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-16 15:00:01.898 - UploadersConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-16 15:00:02.031 - ApplicationConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-16 15:00:33.065 - Executing: Capturar região
+2026-03-16 15:00:37.554 - ApplicationConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-16 15:00:37.554 - UploadersConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-16 15:00:37.554 - HotkeysConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-16 15:00:37.584 - HotkeysConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-16 15:00:37.613 - UploadersConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-16 15:00:37.631 - Folder opened: C:\Users\Teerp\OneDrive\Documentos\ShareX\Screenshots\2026-03\
+2026-03-16 15:00:37.679 - ApplicationConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-16 15:00:44.665 - ApplicationConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-16 15:00:44.665 - HotkeysConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-16 15:00:44.665 - UploadersConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-16 15:00:44.690 - HotkeysConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-16 15:00:44.719 - UploadersConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-16 15:00:44.775 - ApplicationConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-16 15:00:53.078 - ShareX starting.
+2026-03-16 15:00:53.081 - Version: 19.0.2
+2026-03-16 15:00:53.081 - Build: Steam
+2026-03-16 15:00:53.081 - Command line: "C:\Program Files (x86)\Steam\steamapps\common\ShareX\ShareX\ShareX.dll"
+2026-03-16 15:00:53.081 - Personal path: C:\Users\Teerp\OneDrive\Documentos\ShareX
+2026-03-16 15:00:53.082 - Operating system: Windows 10 Home (64-bit)
+2026-03-16 15:00:53.085 - .NET version: 9.0.12
+2026-03-16 15:00:53.085 - Running as elevated process: False
+2026-03-16 15:00:53.112 - ApplicationConfig load started: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-16 15:00:53.503 - ApplicationConfig load finished: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-16 15:00:53.592 - MainForm init started.
+2026-03-16 15:00:53.593 - UploadersConfig load started: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-16 15:00:53.695 - UploadersConfig load finished: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-16 15:00:53.696 - HotkeysConfig load started: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-16 15:00:53.736 - HotkeysConfig load finished: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
+2026-03-16 15:00:54.251 - MainForm init finished.
+2026-03-16 15:00:54.434 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capturar região, Job: RectangleRegion
+2026-03-16 15:00:54.434 - Unable to register hotkey: Print Screen
+2026-03-16 15:00:54.434 - Hotkey register failed: Hotkey: Print Screen, Description: Capturar a tela inteira, Job: PrintScreen
+2026-03-16 15:00:54.434 - Unable to register hotkey: Alt + Print Screen
+2026-03-16 15:00:54.434 - Hotkey register failed: Hotkey: Alt + Print Screen, Description: Capturar janela ativa, Job: ActiveWindow
+2026-03-16 15:00:54.434 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2026-03-16 15:00:54.434 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Gravar tela (GIF), Job: ScreenRecorderGIF
+2026-03-16 15:01:12.609 - HotkeyManager started.
+2026-03-16 15:01:12.610 - WatchFolderManager started.
+2026-03-16 15:01:12.642 - Startup time: 19879 ms
+2026-03-16 15:01:15.227 - Folder opened: C:\Users\Teerp\OneDrive\Documentos\ShareX\Screenshots\2026-03\
+2026-03-16 15:01:28.356 - File opened: C:\Users\Teerp\OneDrive\Documentos\ShareX\Screenshots\2026-03\brave_UwetMxrTdB.png
+2026-03-17 17:09:47.144 - ShareX closing.
+2026-03-17 17:09:47.158 - ApplicationConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-17 17:09:47.471 - ApplicationConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\ApplicationConfig.json
+2026-03-17 17:09:47.471 - UploadersConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-17 17:09:47.532 - UploadersConfig save successful: C:\Users\Teerp\OneDrive\Documentos\ShareX\UploadersConfig.json
+2026-03-17 17:09:47.533 - HotkeysConfig save started: C:\Users\Teerp\OneDrive\Documentos\ShareX\HotkeysConfig.json
